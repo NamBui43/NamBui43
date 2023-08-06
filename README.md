@@ -8,7 +8,7 @@
 ---
 ## About me
 
-I am Nam, an enthusiastic undergraduate data science student at Aalto University with a passion for data analytics and machine learning. I have completed personal data-related projects and coursework that demonstrate my ability to implement comprehensive database system, filter and clean large dataset, visualize and analyze data, and build predictive models to solve real-world problems. I am expecting to graduate in December 2024, and I am seeking to gain industry experience through internships and real-world projects.
+I am Nam, an enthusiastic undergraduate data science student at Aalto University with a passion for data analytics and machine learning. I have completed personal data-related projects and coursework that demonstrate my ability to implement comprehensive database system, process large dataset, visualize and analyze data, and build predictive models to solve real-world problems. I am expecting to graduate in December 2024, and I am seeking to gain industry experience through internships and real-world projects.
 
 ## Skills
 - Programming language: Python, R, Scala
