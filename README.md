@@ -24,5 +24,7 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 
 - [**Finland vaccine distribution analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis) - Implementing a database system to manage the production and distribution of Covid-19 vaccine. Performing explanatory data analysis on vaccine distribution within the Finnish healthcare system
 
+
+
 Please feel free to reach out if you would like to connect and discuss cooperation coopportunities! Have a great day :)
 
