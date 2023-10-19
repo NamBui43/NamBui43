@@ -20,9 +20,11 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 - Bachelor of Science in Data Science, Aalto University (Expected graduation: December 2023)
   
 ## Projects
-- [**Forecasting profits of online sport bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Used polynomial regression and random forest regression to forecast the profits of online sport bettors. Performed explanatory data analysis using the gathered and cleaned datasets
+-  [**Credit Card Customer Segmentation: Clustering**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Performed unsupervised clustering on credit card customers using their demographic and banking records. Performed explanatory data analysis on the dataset.
 
-- [**Finland vaccine distribution analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis) - Implemented a database system to manage the production and distribution of Covid-19 vaccine. Performed explanatory data analysis on vaccine distribution within the Finnish healthcare system
+- [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Used polynomial regression and random forest regression to forecast the profits of online sport bettors. Performed explanatory data analysis using the gathered and cleaned datasets
+
+- [**Finland Vaccine Distribution Analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis) - Implemented a database system to manage the production and distribution of Covid-19 vaccine. Performed explanatory data analysis on vaccine distribution within the Finnish healthcare system
 
 
 
