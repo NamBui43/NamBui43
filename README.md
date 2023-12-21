@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <img src='https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif' width='300px' style='display: inline-block; vertical-align: middle;'>
-  <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Howdy! Welcome to my Github page.</h3>
+  <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hello! Welcome to my Github page.</h3>
 </div>
 
  <!-- About section -->
