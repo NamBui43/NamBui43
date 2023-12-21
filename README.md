@@ -40,5 +40,5 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 
 Thank you for visiting! 
 
-Please feel free to reach out if you would like to connect and discuss cooperation coopportunities! Have a great day :)
+Please feel free to reach out at nambh33@gmail.com if you would like to connect and discuss cooperation coopportunities! Have a great day :)
 
