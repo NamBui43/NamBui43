@@ -35,7 +35,8 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
   - Formulated and compared the performances of 2 machine learning models in forecasting the profits of online sport bettors at bwin.com.
   - Performed explanatory data analysis on the dataset.
 
-Thank you for visiting! 
 
+
+Thank you for visiting! 
 Please feel free to reach out if you would like to connect and discuss cooperation coopportunities! Have a great day :)
 
