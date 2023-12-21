@@ -28,6 +28,13 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 
 - [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Used polynomial regression and random forest regression to forecast the profits of online sport bettors. Performed explanatory data analysis using the gathered and cleaned datasets
 
+- Main point
+  - Sub-point 1
+    - Sub-sub-point A
+    - Sub-sub-point B
+  - Sub-point 2
+- Another main point
+
 
 Please feel free to reach out if you would like to connect and discuss cooperation coopportunities! Have a great day :)
 
