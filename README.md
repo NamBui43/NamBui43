@@ -21,22 +21,21 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
   
 ## Projects
 - [**Credit Card Customer Segmentation: Clustering**](https://github.com/NamBui43/Credit-Card-Customer-Segmentation-Clustering)
-  - Conducted unsupervised clustering on credit card customers using their demographic and banking records. Performed explanatory data analysis on the dataset.
+  - Conducted unsupervised clustering on credit card customers using their demographic and banking records.     - Performed explanatory data analysis on the dataset.
 
--  [**Finland COVID-19 Vaccine Distribution Analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis) - Implemented a database system to manage the production and distribution of Covid-19 vaccine. Analyzed the Covid-19 vaccine distribution within the Finnish healthcare system using SQL queries and Python pandas library
--   [**McDonald's Customer Reviews Sentiment Analysis**](https://github.com/NamBui43/McDonald-Customer-Reviews-Sentiment-Analysis-using-RoBERTa/tree/main) - Performed sentiment analysis on customer reviews of multiple McDonald's restaurants in America using RoBERTa pretrained model. Compared the perfomances of 2 machine learning models in classifying the sentiments of McDonald's customer reviews. 
+- [**Finland COVID-19 Vaccine Distribution Analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis)
+  - Implemented a database system to manage the production and distribution of Covid-19 vaccine.
+  - Analyzed the Covid-19 vaccine distribution within the Finnish healthcare system using 10 complexed SQL queries
+  
+- [**McDonald's Customer Reviews Sentiment Analysis**](https://github.com/NamBui43/McDonald-Customer-Reviews-Sentiment-Analysis-using-RoBERTa/tree/main)
+  - Performed sentiment analysis on customer reviews of McDonald's restaurants in America using RoBERTa pretrained model.
+  - Formulated and compared the perfomances of 2 machine learning models in classifying the sentiments of McDonald's customer reviews. 
 
-- [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Used polynomial regression and random forest regression to forecast the profits of online sport bettors. Performed explanatory data analysis using the gathered and cleaned datasets
+- [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-)
+  - Formulated and compared the performances of 2 machine learning models in forecasting the profits of online sport bettors at bwin.com.
+  - Performed explanatory data analysis on the dataset.
 
-- Main point
-  - Sub-point 1
-    - Sub-sub-point A
-    - Sub-sub-point B
-  - Sub-point 2
-- Another main point
-
-
-
+Thank you for visiting! 
 
 Please feel free to reach out if you would like to connect and discuss cooperation coopportunities! Have a great day :)
 
