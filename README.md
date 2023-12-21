@@ -20,7 +20,8 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 - Bachelor of Science in Data Science, Aalto University (Expected graduation: December 2023)
   
 ## Projects
--  [**Credit Card Customer Segmentation: Clustering**](https://github.com/NamBui43/Credit-Card-Customer-Segmentation-Clustering) - Conducted unsupervised clustering on credit card customers using their demographic and banking records. Performed explanatory data analysis on the dataset.
+-  [**Credit Card Customer Segmentation: Clustering**](https://github.com/NamBui43/Credit-Card-Customer-Segmentation-Clustering)
+-  - Conducted unsupervised clustering on credit card customers using their demographic and banking records. Performed explanatory data analysis on the dataset.
 
 - [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-) - Used polynomial regression and random forest regression to forecast the profits of online sport bettors. Performed explanatory data analysis using the gathered and cleaned datasets
 
