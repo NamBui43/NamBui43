@@ -26,12 +26,12 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
   - Performed exploratory data analysis on the dataset.
 
 - [**Finland COVID-19 Vaccine Distribution Analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis)
-  - Implemented a database system to manage the production and distribution of Covid-19 vaccine.
-  - Analyzed the Covid-19 vaccine distribution within the Finnish healthcare system using 10 complexed SQL queries
+  - Implemented a database system to manage the production and distribution of COVID-19 vaccines.
+  - Analyzed the Covid-19 vaccine distribution within the Finnish healthcare system using 10 complex SQL queries
   
 - [**McDonald's Customer Reviews Sentiment Analysis**](https://github.com/NamBui43/McDonald-Customer-Reviews-Sentiment-Analysis-using-RoBERTa/tree/main)
   - Performed sentiment analysis on customer reviews of McDonald's restaurants in America using RoBERTa pretrained model.
-  - Formulated and compared the perfomances of 2 machine learning models in classifying the sentiments of McDonald's customer reviews. 
+  - Formulated and compared the performances of 2 machine learning models in classifying the sentiments of McDonald's customer reviews. 
 
 - [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-)
   - Formulated and compared the performances of 2 machine learning models in forecasting the profits of online sport bettors at bwin.com.
