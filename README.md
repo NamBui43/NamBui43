@@ -15,6 +15,7 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 - Data analysis and visualization tools: Pandas, NumPy, Matplotlib
 - Database management: SQL, MySQL, PostgreSQL
 - Machine learning framework: Scikit-learn
+- Relevant coursework: Machine Learning D, Machine Learning - Supervised Methods D, Data Structure & Algorithms, Database, Prediction & Time Series Analysis, Data visualization
 
 ## Education
 - Bachelor of Science in Data Science, Aalto University (Expected graduation: June 2024)
