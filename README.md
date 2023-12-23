@@ -23,7 +23,7 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 ## Projects
 - [**Credit Card Customer Segmentation: Clustering**](https://github.com/NamBui43/Credit-Card-Customer-Segmentation-Clustering)
   - Conducted unsupervised clustering on credit card customers using their demographic and banking records.
-  - Performed explanatory data analysis on the dataset.
+  - Performed exploratory data analysis on the dataset.
 
 - [**Finland COVID-19 Vaccine Distribution Analysis**](https://github.com/NamBui43/Finland-Vaccine-Distribution-Analysis)
   - Implemented a database system to manage the production and distribution of Covid-19 vaccine.
@@ -35,7 +35,7 @@ I am Nam, an enthusiastic undergraduate data science student at Aalto University
 
 - [**Forecasting Profits of Online Sports Bettors**](https://github.com/NamBui43/Predicting-Profits-Of-Online-Sport-Bettors-)
   - Formulated and compared the performances of 2 machine learning models in forecasting the profits of online sport bettors at bwin.com.
-  - Performed explanatory data analysis on the dataset.
+  - Performed exploratory data analysis on the dataset.
 
 ---
 
